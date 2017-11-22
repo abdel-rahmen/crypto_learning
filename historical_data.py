@@ -22,10 +22,11 @@ def daily_price_historical(symbol, comparison_symbol, histoday=True, limit=1, ag
 
     # add a column with timestamp
     df['timestamp'] = [datetime.datetime.fromtimestamp(d) for d in df.time]
+
     return df
 
 
-df = daily_price_historical('BTC', 'USD')
+df = daily_price_historical('BTC', 'USD', False)
 print('Max length = {}'.format(len(df)))
 print('Max time = {}'.format((df.timestamp.max() - df.timestamp.min())))
 print(df.head(5))
