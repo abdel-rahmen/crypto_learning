@@ -1,4 +1,7 @@
-Machine Learning project
-Cryptomonnay analyse and prediccion
+Link Vimeo :
 
-Link Youtube: 
+https://vimeo.com/254608801
+
+mot de passe pour voir la video :
+
+projetDM
