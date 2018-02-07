@@ -21,7 +21,7 @@ Réalisation - Hector Dorliat et Abdel-Rahmen Korichi
 
 Mise en scène - Abdel-Rahmen Korichi
 
-Script - Hector Dorliat avec Abdel-Rahmen Korichi
+Script - Hector Dorliat avec l'aide d'Abdel-Rahmen Korichi
 
 Montage - Hector Dorliat
 
